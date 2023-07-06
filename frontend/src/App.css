@@ -1,8 +1,29 @@
 .App {
   text-align: center;
+  width: 113.9rem;
+  height: 204.875rem;
+  background-color: black;
+  padding-top: 2.5rem;
+  padding-left: 2.55rem;
+  padding-right: 2.5rem;
 }
 
-.App-logo {
+.dashboard1{
+  width: 113.9rem;
+  height: 41.9375rem;
+  flex-shrink: 0;
+  background: #07DF9A;
+}
+
+/*.WebName{
+  display: flex;
+width: 15.85344rem;
+height: 2.86238rem;
+flex-direction: column;
+flex-shrink: 0;
+}*/
+
+/*.App-logo {
   height: 40vmin;
   pointer-events: none;
 }
@@ -35,4 +56,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+}*/
